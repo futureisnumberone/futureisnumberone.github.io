@@ -1,4 +1,4 @@
-var password = "password1234";
+var password = "world";
 var input = prompt("Enter the password:");
 
 if(input == password) {
